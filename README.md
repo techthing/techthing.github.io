@@ -1,5 +1,5 @@
 ### Update on india first fifth generation fighter aircraft HAL AMCA
-The HAL Advanced Medium Combat Aircraft (AMCA) is an Indian programme of a fifth-generation fighter aircraft. [Read More...](https://github.com/techthing/techthing.github.io/blob/master/Hal%20new%20aircraft%20AMCA.md)
+The HAL Advanced Medium Combat Aircraft (AMCA) is an Indian programme of a fifth-generation fighter aircraft. [Read More...](tech_updates/hal_new_aircraft_amca.md)
 
 ### Markdown
 

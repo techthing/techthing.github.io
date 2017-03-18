@@ -1,7 +1,5 @@
-### New News
-You can use the [editor on GitHub](https://github.com/techthing/techthing.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Update on india first fifth generation fighter aircraft HAL AMCA
+The HAL Advanced Medium Combat Aircraft (AMCA) is an Indian programme of a fifth-generation fighter aircraft. [Read More...](https://github.com/techthing/techthing.github.io/blob/master/Hal%20new%20aircraft%20AMCA.md)
 
 ### Markdown
 

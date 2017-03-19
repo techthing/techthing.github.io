@@ -1,2 +1,0 @@
-The HAL Advanced Medium Combat Aircraft (AMCA) is an Indian programme of a fifth-generation fighter aircraft. It is being developed by an aerospace industry team which consists of the Aeronautical Development Agency as the design firm with manufacturing carried out by Hindustan Aeronautics Limited (HAL) as the primary contractor and main assembly firm
-![](https://github.com/techthing/techthing.github.io/blob/master/images/images.jpg?raw=true)
